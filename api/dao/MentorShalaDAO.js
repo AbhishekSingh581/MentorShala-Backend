@@ -31,4 +31,10 @@ export default class mentorShalaDb{
             console.log("cant make it an array");
         }
     }
+    // static async getUserLogin(email,password){
+    //     let cursor;
+    //     try{
+    //         cursor=await mentorshalaUsers.find({})
+    //     }
+    // }
 }
